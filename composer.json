@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "msd0s\\PageCache\\PageCacheServiceProvider"
+                "Msd0s\\PageCache\\PageCacheServiceProvider"
             ]
         }
     },
