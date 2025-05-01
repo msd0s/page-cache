@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^10.0",
-        "illuminate/database": "^10.0"
+        "illuminate/support": "*",
+        "illuminate/database": "*"
     },
     "autoload": {
         "psr-4": {
